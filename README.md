@@ -6,3 +6,5 @@ Practically, to minimize parasitic epitaxial growth, NH3 and GaCl gas flows were
 
 Calculations were made using the Monte Carlo method. The modeling helped to find the optimal configuration of tubes and flow rates in sccm.
 
+https://github.com/elkinms/Python_gas_flows/blob/main/01_NH3.png
+<img src="[https://example.com/image.jpg](https://github.com/elkinms/Python_gas_flows/blob/main/01_NH3.png)" alt="NH3" width="600" height="400">
