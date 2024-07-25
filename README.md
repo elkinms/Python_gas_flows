@@ -8,5 +8,5 @@ Calculations were made using the Monte Carlo method. The modeling helped to find
 
 | NH3 flow                                                                                                             | GaCl flow without N2 flow tube | GaCl flow with N2 tube |
 |----------------------------------------------------------------------------------------------------------------      |--------------------------------|------------------------|
-| <img src="https://github.com/elkinms/Python_gas_flows/blob/main/01_NH3.png" alt="NH3 flow" width="240" height="246"> | <img src="https://github.com/elkinms/Python_gas_flows/blob/main/02_GaCl_w_o_tuube.png" alt="GaCl1 flow" width="240" height="246"> | <img src="https://github.com/elkinms/Python_gas_flows/blob/main/03_GaCl_w_tube.png" alt="GaCl2 flow" width="240" height="246"> |
+| <img src="https://github.com/elkinms/Python_gas_flows/blob/main/01_NH3.png" alt="NH3 flow" width="240" height="246"> | <img src="https://github.com/elkinms/Python_gas_flows/blob/main/02_GaCl_w_o_tube.png" alt="GaCl1 flow" width="240" height="246"> | <img src="https://github.com/elkinms/Python_gas_flows/blob/main/03_GaCl_w_tube.png" alt="GaCl2 flow" width="240" height="246"> |
 
