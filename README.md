@@ -1,4 +1,4 @@
-## Gas flow calculations for a scientific HVPE reactor for growing thick GaN films
+## Gas flow calculations for a HVPE reactor for growing thick GaN films
 
 The aim of this project was to find the optimal configuration of SiO2 tubes inside the reactor to minimize parasitic epitaxial GaN growth on the tubes while providing an acceptable level of uniform gas distribution near the template.
 
